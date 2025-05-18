@@ -1,6 +1,4 @@
-Here’s a simple `README.md` file for using `nc` (Netcat) to send and receive messages over port 12345:
 
----
 
 # Netcat Message Communication using Port 12345
 
@@ -95,9 +93,3 @@ Start typing messages in either terminal to communicate.
 
 Use Netcat responsibly. Do not use it for unauthorized access or communication.
 
-```
-
----
-
-Let me know if you want to include advanced examples (like file transfer or reverse shell) in this README.
-```
